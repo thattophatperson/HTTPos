@@ -1,3 +1,3 @@
-# HTTPos - A lightweight Debian-based linux distro.
+# The HTTP Project
 
 # KEEP IN MIND THIS IS NOT YET RELEASED, README.MD IS EMPTY
